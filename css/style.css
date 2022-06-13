@@ -1,0 +1,17 @@
+body{
+    margin: 0 auto;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div{
+    height: 200px;
+    width: 200px;
+    background-color: lightskyblue;
+    margin: 5px;
+}
+
+.selected{
+    background-color: lightgreen;
+}
